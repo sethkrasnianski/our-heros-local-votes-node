@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Rehoboth",
+    "aliases": [
+      "RHPD"
+    ]
+  },
+  {
+    "name": "Dighton",
+    "aliases": [
+      "DPD"
+    ]
+  },
+  {
+    "name": "Taunton"
+  },
+  {
+    "name": "West Hartford",
+    "aliases": [
+      "WH",
+      "WHPD"
+    ]
+  }
+]
